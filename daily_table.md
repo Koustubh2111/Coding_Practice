@@ -4,7 +4,7 @@ MONDAY - 6 patterns; 5 easy; 3 medium
 
 | PATTERN     |       QUESTION     | Python CODE LINK  | NOTES |
 | ------------- |:-------------:| -----:|------:|
-| SLIDING WINDOWS     | Maximum Sum Subarray of Size K (easy) |  | |
+| SLIDING WINDOWS     | Maximum Sum Subarray of Size K (easy) | https://leetcode.com/problems/sliding-window-maximum/submissions/  | Simple brute force solution but very time complex O(n*n-k); Faster soltuion can be obtained using a deque - decreasing queue|
 | SLIDING WINDOWS     | Longest Substring with K Distinct Characters (Medium)     |   |
 | TWO POINTERS        | Pair with Target Sum (easy)    |    | |
 | TWO POINTERS        | Triplet Sum to Zero (medium) | | |
