@@ -9,7 +9,7 @@ WEEK 1 - July 25 - Aug 1
 |4| TWO POINTERS        | Pair with Target Sum (easy)    | https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/   | Very simple splution using two pointers - Optimal solution ?|
 |5|TWO POINTERS or HASH MAP| 2Sum (easy) | https://leetcode.com/problems/two-sum/submissions/ | Optimal solution can be obtained using a hash map - Traverse through the array, if num - target is in the hashmap return - O(N)|
 |6|TWO POINTERS or HASH MAP| 2Sum II (Medium) | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/ | Advantage of array being sorted is two pointers at opposite ends can be moved toward each depending on how close their sum is to target - Time Complexity O(N)|
-|7| TWO POINTERS        | Triplet Sum to Zero (medium) | | |
+|7| TWO POINTERS        | Triplet Sum to Zero (medium) | https://leetcode.com/problems/3sum/submissions/ | Main trick is to sort the array - this way for each number we can use TWO SUM II solved above and check for duplicates easily - O(NlogN) (sorting) + O(N^2) |
 |8| FAST AND SLOW POINTERS | Happy Number (medium) | | |
 |9| TREE BREADTH FIRST TRAVERSAL| Binary Tree Level Order Traversal (easy)| | |
 |10|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | | |
