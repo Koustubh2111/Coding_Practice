@@ -10,11 +10,15 @@ WEEK 1 - July 25 - Aug 1
 |5|TWO POINTERS or HASH MAP| 2Sum (easy) | https://leetcode.com/problems/two-sum/submissions/ | Optimal solution can be obtained using a hash map - Traverse through the array, if num - target is in the hashmap return - O(N)|
 |6|TWO POINTERS or HASH MAP| 2Sum II (Medium) | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/ | Advantage of array being sorted is two pointers at opposite ends can be moved toward each depending on how close their sum is to target - Time Complexity O(N)|
 |7| TWO POINTERS        | Triplet Sum to Zero (medium) | https://leetcode.com/problems/3sum/submissions/ | Main trick is to sort the array - this way for each number we can use TWO SUM II solved above and check for duplicates easily - O(NlogN) (sorting) + O(N^2) |
-|8| FAST AND SLOW POINTERS | Happy Number (medium) | | |
-|9| TREE BREADTH FIRST TRAVERSAL| Binary Tree Level Order Traversal (easy)| | |
-|10|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | | |
-|11|TREE BREADTH FIRST SEARCH| Reverse Level Order Traversal (easy) | | |
-|12| TREE DEPTH FIRST TRAVERSAL | Binary Tree Path Sum (easy) | https://leetcode.com/problems/path-sum/submissions/ | Depth first search on a binary tree can be done usin recursion; define a neew function to check if a node is a leaf or recursively do that left or right until a leaf is hit; Call this function recursively on root node |
-|13|TREE DEPTH FIRST TRAVERSAL| All Paths for a Sum (medium) | | |
-|14|TREE DEPTH FIRST TRAVERSAL| Sum of Path Numbers (medium) | | |
-|15|SUBSETS | Subsets (easy) | | |
+
+
+
+WEEK 2 AUG 2 - AUG 9
+|1| FAST AND SLOW POINTERS | Happy Number (medium) | | |
+|2| TREE BREADTH FIRST TRAVERSAL| Binary Tree Level Order Traversal (easy)| | |
+|3|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | | |
+|4|TREE BREADTH FIRST SEARCH| Reverse Level Order Traversal (easy) | | |
+|5| TREE DEPTH FIRST TRAVERSAL | Binary Tree Path Sum (easy) | https://leetcode.com/problems/path-sum/submissions/ | Depth first search on a binary tree can be done usin recursion; define a neew function to check if a node is a leaf or recursively do that left or right until a leaf is hit; Call this function recursively on root node |
+|6|TREE DEPTH FIRST TRAVERSAL| All Paths for a Sum (medium) | | |
+|7|TREE DEPTH FIRST TRAVERSAL| Sum of Path Numbers (medium) | | |
+|8|SUBSETS | Subsets (easy) | | |
