@@ -14,6 +14,9 @@ WEEK 1 - July 25 - Aug 1
 
 
 WEEK 2 AUG 2 - AUG 9
+
+|#| PATTERN     |       QUESTION     | Python CODE LINK  | NOTES |
+|------:| ------------- |:-------------:| -----:|------:|
 |1| FAST AND SLOW POINTERS | Happy Number (medium) | | |
 |2| TREE BREADTH FIRST TRAVERSAL| Binary Tree Level Order Traversal (easy)| | |
 |3|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | | |
