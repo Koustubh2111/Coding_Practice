@@ -22,6 +22,6 @@ WEEK 2 AUG 2 - AUG 9
 |3|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | | |
 |4|TREE BREADTH FIRST SEARCH| Reverse Level Order Traversal (easy) | | |
 |5| TREE DEPTH FIRST TRAVERSAL | Binary Tree Path Sum (easy) | https://leetcode.com/problems/path-sum/submissions/ | Depth first search on a binary tree can be done usin recursion; define a neew function to check if a node is a leaf or recursively do that left or right until a leaf is hit; Call this function recursively on root node |
-|6|TREE DEPTH FIRST TRAVERSAL| All Paths for a Sum (medium) | | |
+|6|TREE DEPTH FIRST TRAVERSAL| All Paths for a Sum (medium) |https://leetcode.com/problems/path-sum-ii/submissions/ | Define a helper fucntion to check if its a leaf similar to prev, check if leaf val == target sum  - [remaining path node values], if not move left and right recursively while adding node value to list passed to next node - O(N) worst case |
 |7|TREE DEPTH FIRST TRAVERSAL| Sum of Path Numbers (medium) | | |
 |8|SUBSETS | Subsets (easy) | | |
