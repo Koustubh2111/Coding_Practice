@@ -26,7 +26,7 @@ WEEK 3 AUG 15 - AUG 22
 |#| PATTERN     |       QUESTION     | Python CODE LINK  | NOTES |
 |------:| ------------- |:-------------:| -----:|------:|
 |1| FAST AND SLOW POINTERS | Happy Number (medium) | | |
-|2| TREE BREADTH FIRST TRAVERSAL| Binary Tree Level Order Traversal (easy)| | |
+|2| TREE BREADTH FIRST TRAVERSAL| Binary Tree Level Order Traversal (easy)| https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/| A breadth first searchh can be done using a queue easily|
 |3|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | | |
 |4|TREE BREADTH FIRST SEARCH| Reverse Level Order Traversal (easy) | | |
 |5|TREE DEPTH FIRST TRAVERSAL| Sum of Path Numbers (medium) | | |
