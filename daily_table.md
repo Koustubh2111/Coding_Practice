@@ -30,5 +30,5 @@ WEEK 3 AUG 15 - AUG 22
 |4|TREE BREADTH FIRST SEARCH| Reverse Level Order Traversal (easy) | | |
 |5|TREE DEPTH FIRST TRAVERSAL| Sum of Path Numbers (medium) | | |
 |6|TREE BREADTH FIRST TRAVERSAL| Invert Binary Tree (Easy) | | |
-|7||GRAPHS| Clone Graph (Medium)|||
+|7|GRAPHS| Clone Graph (Medium)|||
 |8| SLIDING WINDOWS| Longest Substring with K Distinct Characters (Medium)     |   |
