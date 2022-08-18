@@ -27,7 +27,7 @@ WEEK 3 AUG 15 - AUG 22
 |------:| ------------- |:-------------:| -----:|------:|
 |1| FAST AND SLOW POINTERS | Happy Number (medium) | | |
 |2| TREE BREADTH FIRST TRAVERSAL| Binary Tree Level Order Traversal (easy)| https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/| A breadth first searchh can be done using a queue easily|
-|3|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | | |
+|3|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/| Same method as previous; Smart way is not change order of the queue; just add from left to right each time and while adding to result based on direction % 2 == 0 or not change order using a very crafty a[::-1] for reverse or a[::1] for normal|
 |4|TREE BREADTH FIRST SEARCH| Reverse Level Order Traversal (easy) | | |
 |5|TREE DEPTH FIRST TRAVERSAL| Sum of Path Numbers (medium) | | |
 |6|SUBSETS | Subsets (easy) | | |
