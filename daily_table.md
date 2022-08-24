@@ -24,11 +24,16 @@ AUG 10-15 Codeathon and thesis submissions
 WEEK 3 AUG 16 - AUG 23
 |#| PATTERN     |       QUESTION     | Python CODE LINK  | NOTES |
 |------:| ------------- |:-------------:| -----:|------:|
+|1| TREE BREADTH FIRST TRAVERSAL| Binary Tree Level Order Traversal (easy)| https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/| A breadth first search can be done using a queue easily|
+|2|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/| Same method as previous; Smart way is not change order of the queue; just add from left to right each time and while adding to result based on direction % 2 == 0 or not change order using a very crafty a[::-1] for reverse or a[::1] for normal|
+|3|TREE DEPTH FIRST TRAVERSAL| Sum of Path Numbers (medium) | https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/|Classic dfs problem - boils down to what the helper returns; for converting nodes to integrer, *10 each num and add to current value|
+|4|TREE DEPTH FIRST TRAVERSAL| Invert Binary Tree (Easy) |https://leetcode.com/problems/invert-binary-tree/submissions/ |Very easy dfs problem, main function is the recursive helper, at each node invert children and run fn. on left and right children|
+
+
+WEEK 4 - Aug 24 - Aug31
+|#| PATTERN     |       QUESTION     | Python CODE LINK  | NOTES |
+|------:| ------------- |:-------------:| -----:|------:|
 |1| FAST AND SLOW POINTERS | Happy Number (medium) | | |
-|2| TREE BREADTH FIRST TRAVERSAL| Binary Tree Level Order Traversal (easy)| https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/| A breadth first search can be done using a queue easily|
-|3|TREE BREADTH FIRST SEARCH| Zigzag Traversal (medium) | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/| Same method as previous; Smart way is not change order of the queue; just add from left to right each time and while adding to result based on direction % 2 == 0 or not change order using a very crafty a[::-1] for reverse or a[::1] for normal|
-|4|TREE BREADTH FIRST SEARCH| Reverse Level Order Traversal (easy) | | |
-|5|TREE DEPTH FIRST TRAVERSAL| Sum of Path Numbers (medium) | https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/|Classic dfs problem - boils down to what the helper returns; for converting nodes to integrer, *10 each num and add to current value|
-|6|TREE DEPTH FIRST TRAVERSAL| Invert Binary Tree (Easy) |https://leetcode.com/problems/invert-binary-tree/submissions/ |Very easy dfs problem, main function is the recursive helper, at each node invert children and run fn. on left and right children|
-|7|GRAPHS| Clone Graph (Medium)|||
-|8| SLIDING WINDOWS| Longest Substring with K Distinct Characters (Medium)     |   |
+|2|TREE BREADTH FIRST SEARCH| Reverse Level Order Traversal (easy) | | |
+|3|GRAPHS| Clone Graph (Medium)|||
+|4| SLIDING WINDOWS| Longest Substring with K Distinct Characters (Medium)     |   |
