@@ -33,7 +33,9 @@ WEEK 3 AUG 16 - AUG 23
 WEEK 4 - Aug 24 - Aug31
 |#| PATTERN     |       QUESTION     | Python CODE LINK  | NOTES |
 |------:| ------------- |:-------------:| -----:|------:|
-|1| FAST AND SLOW POINTERS | Happy Number (medium) | | |
+|1| DYNAMIC PROGRAMMING | Unique Binary Search Trees (medium) |https://leetcode.com/problems/unique-binary-search-trees/submissions/ | 1. The number of trees possible for a particular number of n remains the same regardless of the elements making up n nodes
+2. For any node as the root, the number of possibe trees to make up a search tree is number of possible trees on left * number of possible trees on right
+3. Store all possible trees for each node to recall in each iteration|
 |2|TREE BREADTH FIRST SEARCH| Reverse Level Order Traversal (easy) | | |
 |3|GRAPHS| Clone Graph (Medium)|||
 |4| SLIDING WINDOWS| Longest Substring with K Distinct Characters (Medium)     |   |
