@@ -37,4 +37,4 @@ WEEK 4 - Aug 24 - Aug31
 |2|TREE DEPTH FIRST SEARCH| Validate Binary Search Tree (Medium) |https://leetcode.com/problems/validate-binary-search-tree/submissions/ | Initial error: Not thinking that entire subtrees need to obey the binary search tree conditions. Starting with -inf anf + inf tow bounds can be used to check if a node value satiisfies binary search tree conditions|
 |3|GRAPHS| Clone Graph (Medium)|https://leetcode.com/problems/clone-graph/submissions/|Graph problems require a hashmap and a traversal like dfs or bfs to visit a node; Create a hashmap to make clones of the graph; If node already there in hasmap return the clone to be appended to the neigbours of another node; Append neighbours from either the hasmap or add to hashmap and return with recursion DFS|
 |4|GRAPHS|Tasks Scheduling (medium)|||
-|5| SLIDING WINDOWS| Longest Substring with K Distinct Characters (Medium)     |   |
+|5|K elements| Top 'K' Numbers (easy)| |  |
