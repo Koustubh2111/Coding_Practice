@@ -44,7 +44,7 @@ WEEK 5 Sept 1 - Sept 7
 |#| PATTERN     |       QUESTION     | Python CODE LINK  | NOTES |
 |------:| ------------- |:-------------:| -----:|------:|
 |1|GRAPHS|Tasks Scheduling (medium)|||
-|2|LINKED LIST| Remove Nth Node From End Of List |||
+|2|LINKED LIST| Remove Nth Node From End Of List (Medium) |https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/|Straighforward, traverse to the n nodes until n is non negative and move both pointers to end so left pointer reps nth node, delete that node |
 |3|STRINGS|  Longest Palindromic Substring| | |
 |4|BINARY TREE| Kth Smallest Element in a BST| | |
 |5| DP I | Combination Sum| | |
