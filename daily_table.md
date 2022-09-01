@@ -44,3 +44,10 @@ WEEK 5 Sept 1 - Sept 7
 |#| PATTERN     |       QUESTION     | Python CODE LINK  | NOTES |
 |------:| ------------- |:-------------:| -----:|------:|
 |1|GRAPHS|Tasks Scheduling (medium)|||
+|2|LINKED LIST| Remove Nth Node From End Of List |||
+|3|STRINGS|  Longest Palindromic Substring| | |
+|4|BINARY TREE| Kth Smallest Element in a BST| | |
+|5| DP I | Combination Sum| | |
+|6| ARRAY| Maximum Subarray |||
+|7| DP II| House Robber| | |
+
