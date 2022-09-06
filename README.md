@@ -43,9 +43,9 @@ WEEK 5 Sept 1 - Sept 7
 |------:| ------------- |:-------------:| -----:|------:|
 |1|GRAPHS|Tasks Scheduling (medium)|||
 |2|LINKED LIST| Remove Nth Node From End Of List (Medium) |https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/|Straighforward, traverse to the n nodes until n is non negative and move both pointers to end so left pointer reps nth node, delete that node |
-|3|STRINGS|  Longest Palindromic Substring| | |
+|3|STRINGS|  Longest Palindromic Substring (Hard)| | |
 |4|BINARY TREE| Kth Smallest Element in a BST| | |
-|5| DP I | Combination Sum| | |
+|5| DP I | Combination Sum (Hard)| | |
 |6| ARRAY| Maximum Subarray |||
 |7| DP II| House Robber| | |
 
