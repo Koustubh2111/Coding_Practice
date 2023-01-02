@@ -23,7 +23,7 @@
 |18|K ELEMENTS|Least Number of Unique Integers after K Removals (Medium)|https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/submissions/|Trick to get a sorted frequency map and calculate number of unique values removed before leftover k integer becomes negative|
 |19|GRAPHS|Tasks Scheduling (medium)|||
 |20|LINKED LIST| Remove Nth Node From End Of List (Medium) |https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/|Straighforward, traverse to the n nodes until n is non negative and move both pointers to end so left pointer reps nth node, delete that node |
-|21|STRINGS|  Longest Palindromic Substring (Hard)| | |
+|21|BINARY SEARCH TREE|  Least common ancestor of a binary search tree (Easy) |https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/870037574/ | Based on property of binary search tree, the node where a split occurs is the least common ancestor. Recursively look for splits in left/right subtree|
 |22|BINARY TREE| Kth Smallest Element in a BST| | |
 |23| DP I | Combination Sum (Hard)| | |
 |24| ARRAY| Maximum Subarray |||
