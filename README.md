@@ -25,7 +25,7 @@
 |20|LINKED LIST| Remove Nth Node From End Of List (Medium) |https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/|Straighforward, traverse to the n nodes until n is non negative and move both pointers to end so left pointer reps nth node, delete that node |
 |21|BINARY SEARCH TREE|  Least common ancestor of a binary search tree (Easy) |https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/870037574/ | Based on property of binary search tree, the node where a split occurs is the least common ancestor. Recursively look for splits in left/right subtree|
 |22|BINARY TREE| Same Tree (Easy) |https://leetcode.com/problems/same-tree/submissions/870047748/ | When the output is a boolean, a recursive logic bollean statement is the finalk return call with simple base cases|
-|23| DP I | Combination Sum (Hard)| | |
+|23| BINARY TREE | Sub tree (Easy) |https://leetcode.com/problems/subtree-of-another-tree/submissions/872933488/ | Follows from previous question, check if two tress are the same, then either with left or right|
 |24| ARRAY| Maximum Subarray |||
 |25| DP II| House Robber| | |
 
